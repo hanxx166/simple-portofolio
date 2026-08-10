@@ -57,4 +57,3 @@ Through this project, I aim to master:
 ---
 
 © 2026 Erhan Kurniawan. Built in South Lampung.
-```
