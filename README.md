@@ -1,59 +1,58 @@
-#  Personal Portfolio Website
+# Personal Portfolio Website
 
-A simple yet responsive personal portfolio website built with pure HTML and CSS. This project serves as my foundational step in web development and a digital showcase of my journey as an Informatics Engineering student.
-
----
-
-## ‍💻 About Me
-
-I am an **Informatics Engineering student** at **Institut Teknologi Sumatera (ITERA)**, South Lampung, Indonesia. 
-
-This portfolio is part of my active learning process in web development. It represents my early journey in understanding programming, design principles, and technology, with a growing passion for **Artificial Intelligence** and **WebGIS**.
+Portofolio sederhana dan responsif yang dibuat dengan HTML & CSS murni. Ini adalah kesadaran dan langkah awal saya dalam pengembangan web sekaligus tempat untuk menampilkan perjalanan saya sebagai mahasiswa Informatika.
 
 ---
 
-## 🛠️ Technologies Used
+## Tentang Saya
 
-- **Core:** HTML5, CSS3
-- **Version Control:** Git & GitHub
-- **Design:** Responsive Layout (Flexbox/Grid)
+Saya **Erhan Kurniawan**, mahasiswa **Informatika** di **Institut Teknologi Sumatera (ITERA)**. 
+
+Portofolio ini saya buat sebagai bentuk pembelajaran aktif di bidang web development, dan saya mulai tertarik mendalami **Artificial Intelligence** serta **Cyber Security**.
 
 ---
 
-## 📂 Project Structure
+## Teknologi yang Dipakai
 
-```text
+- HTML5 & CSS3  
+- Git & GitHub  
+- Desain responsif (Flexbox / Grid)
+
+---
+
+## Struktur Folder
+
+```
 portfolio/
-├── index.html          # Main landing page (HTML structure)
-├── style.css           # Global styles & responsive design
-── README.md           # Project documentation
+├── index.html      # Halaman utama
+├── style.css       # Gaya & tampilan responsif
+└── README.md       # Dokumentasi proyek
 ```
 
 ---
 
-## 🎯 Learning Goals
+## Cara Menjalankan
 
-Through this project, I aim to master:
-- [x] Semantic HTML & Clean Code Practices
-- [x] CSS Flexbox & Grid Layouts
-- [ ] JavaScript Interactivity (Next Step)
-- [ ] Deployment to GitHub Pages / Vercel
-
----
-
-## 🚀 How to Run Locally
-
-1. Clone this repository:
+1. Clone repositori ini:
    ```bash
    git clone https://github.com/hanxx166/portfolio.git
    ```
-2. Open `index.html` in your browser.
+2. Buka file `index.html` di peramban favoritmu.
 
 ---
 
-> *"Emas adalah waktu dan lingkungan — yang pertama memberimu kesempatan, yang kedua memberimu jalan."*  
-> - A personal reminder on my learning journey.
+## Target Belajar
+
+- [x] HTML semantik  
+- [x] CSS Flexbox & Grid  
+- [ ] Interaktivitas dengan JavaScript (segera)  
+- [ ] Deploy ke GitHub Pages / Vercel
 
 ---
 
-© 2026 Erhan Kurniawan. Built in South Lampung.
+> *"Waktu memberi kesempatan, lingkungan memberi jalan."*
+
+---
+
+© 2026 Erhan Kurniawan - ITERA, Lampung Selatan.
+```
